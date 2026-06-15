@@ -158,14 +158,3 @@ Maintains historical health records and visualizes patient health trends.
 * Advanced Remote Healthcare Services
 
 
-
-<p align="center">
-  <img src="images/signup-dashboard.png" >
-   <img src="images/login-dashboard.png" >
-  <img src="images/main-dashboard.png" >
-  <img src="images/vitals trend grapg.png" >
-   <img src="images/Medication & Food Schedule.png">
-   <img src="images/Patient Profile Card.png" >
-   <img src="images/Live Vitals showing BPM, SpO2, Temperature.png">
-</p>
-
