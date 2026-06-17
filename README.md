@@ -9,7 +9,7 @@ The platform combines smart home automation, physiological monitoring, emergency
 
 ## Overview
 
-Paralyzed and mobility-impaired individuals often depend heavily on caregivers for routine activities such as controlling household appliances and monitoring health conditions. Existing solutions generally focus on either healthcare monitoring or home automation, resulting in fragmented user experiences.
+Paralyzed and mobility-impaired individuals often depend heavily on caregivers for routine activities such as controlling household appliances and monitoring health conditions.Existing solutions generally focus on either healthcare monitoring or home automation, resulting in fragmented user experiences.
 
 MindHive addresses this challenge by providing a centralized platform that combines assistive control, real-time health monitoring, emergency alerts, and caregiver support into a single integrated solution.
 
