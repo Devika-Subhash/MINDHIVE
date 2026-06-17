@@ -23,7 +23,6 @@ MindHive addresses this challenge by providing a centralized platform that combi
 * Accessible and user-friendly interaction model
 * Enhanced independence for mobility-impaired users
 
-
 ### Smart Healthcare Monitoring
 
 * Continuous Heart Rate Monitoring
