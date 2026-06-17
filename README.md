@@ -1,8 +1,8 @@
 # MindHive 🧠
 
-### An HCI-Based Smart Home Automation and Healthcare Monitoring System
+### An HCI-Based Smart Home Automation and Healthcare Monitoring System.
 
-MindHive is an intelligent assistive healthcare platform designed to improve the independence, safety, and quality of life of individuals with severe mobility impairments. By integrating Human-Computer Interaction (HCI), Internet of Things (IoT), cloud computing, and real-time health monitoring, the system enables users to control their environment through eye-blink interaction while providing caregivers with continuous access to vital health information.
+MindHive is an intelligent assistive healthcare platform designed to improve the independence, safety, and quality of life of individuals with severe mobility impairments. By integrating Human Computer Interaction (HCI), Internet of Things (IoT), cloud computing, and real-time health monitoring, the system enables users to control their environment through eye-blink interaction while providing caregivers with continuous access to vital health information.
 
 The platform combines smart home automation, physiological monitoring, emergency alert management, and caregiver support into a unified ecosystem, reducing dependency on physical assistance and enabling proactive healthcare management.
 
