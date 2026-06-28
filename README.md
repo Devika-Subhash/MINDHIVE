@@ -160,7 +160,7 @@ Maintains historical health records and visualizes patient health trends.
 
 ### 👤 Patient Profile
 
-![Patient Profile](./screenshots/patient-profile.png)
+![Patient Profile](./frontend/screenshots/patient-profile.png)
 
 ### 📈 Vitals Trend
 
