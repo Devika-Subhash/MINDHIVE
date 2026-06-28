@@ -136,6 +136,36 @@ Provides medication and food reminders for effective patient care.
 
 Maintains historical health records and visualizes patient health trends.
 
+## 📸 Screenshots
+
+### 🔐 Login
+
+![Login](./screenshots/login.png)
+
+### 📝 Signup
+
+![Signup](./screenshots/signup.png)
+
+### 🏠 Caregiver Dashboard
+
+![Dashboard](./screenshots/dashboard.png)
+
+### ❤️ Live Patient Vitals
+
+![Vitals](./screenshots/vitals.png)
+
+### 💊 Medication & Food Schedule
+
+![Medication](./screenshots/medication.png)
+
+### 👤 Patient Profile
+
+![Patient Profile](./screenshots/patient-profile.png)
+
+### 📈 Vitals Trend
+
+![Vitals Trend](./screenshots/vitals-trend.png)
+
 
 ## Research Contributions
 
