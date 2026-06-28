@@ -140,23 +140,23 @@ Maintains historical health records and visualizes patient health trends.
 
 ### 🔐 Login
 
-![Login](./screenshots/login.png)
+![Login](./frontend/screenshots/login.png)
 
 ### 📝 Signup
 
-![Signup](./screenshots/signup.png)
+![Signup](./frontend/screenshots/signup.png)
 
 ### 🏠 Caregiver Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./frontend/screenshots/dashboard.png)
 
 ### ❤️ Live Patient Vitals
 
-![Vitals](./screenshots/vitals.png)
+![Vitals](./frontend/screenshots/vitals.png)
 
 ### 💊 Medication & Food Schedule
 
-![Medication](./screenshots/medication.png)
+![Medication](./frontend/screenshots/medication.png)
 
 ### 👤 Patient Profile
 
@@ -164,7 +164,7 @@ Maintains historical health records and visualizes patient health trends.
 
 ### 📈 Vitals Trend
 
-![Vitals Trend](./screenshots/vitals-trend.png)
+![Vitals Trend](./frontend/screenshots/vitals-trend.png)
 
 
 ## Research Contributions
